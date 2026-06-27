@@ -1,2 +1,46 @@
-# 5409e81a-forensic-science-investigati
-Validate, clean, and enrich Forensic Science &amp; Investigation data with industry-specific rules and lookups. Domain expertise baked into every API call.
+# Forensic Science & Investigation Data Validation and Enrichment API
+
+> Api Product for Forensic Science
+
+The forensic science tool you'd build yourself — if you had the time.
+
+Rate limiting, authentication, and error handling built in from the start. SDKs and quickstart guides for Python, JavaScript, PHP, and cURL.
+
+## What's Included
+
+- Forensic Science & Investigation Data Validation And Enrichment — fully configured and ready to use
+- RESTful...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| 100 requests/day | ✅ | ✅ |
+| Standard endpoints | ✅ | ✅ |
+| JSON responses | ✅ | ✅ |
+| Unlimited requests | ❌ | ✅ |
+| Premium endpoints | ❌ | ✅ |
+| Batch processing | ❌ | ✅ |
+| Webhook notifications | ❌ | ✅ |
+| SLA guarantee | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$34.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/4gM3cv9z98Is2hi5bucZf2f)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
